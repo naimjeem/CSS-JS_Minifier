@@ -1,0 +1,16 @@
+.container > div {
+ margin: 2em 0;
+}
+
+textarea {
+padding: 1em;
+ verflow-y: auto;   resize: none;
+  border-radius: 4px;
+}
+
+button {
+  width: 100%;
+}
+button ~ button {
+  margin-top: 4px;
+}
